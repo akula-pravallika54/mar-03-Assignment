@@ -1,0 +1,6 @@
+tup1 = (4,5,6)
+tup2 = (1,2,3)
+tup3 = tup1+tup2
+print(tup3)
+OUTPUT:
+(4,5,6,1,2,3)
